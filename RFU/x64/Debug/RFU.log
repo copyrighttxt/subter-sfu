@@ -1,0 +1,25 @@
+﻿  sigscan.cpp
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\sigscan.cpp(71,70): warning C4311: 'reinterpret_cast': pointer truncation from 'LPVOID' to 'unsigned int'
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\sigscan.cpp(71,70): warning C4302: 'reinterpret_cast': truncation from 'LPVOID' to 'unsigned int'
+  main.cpp
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\procutil.h(76,76): warning C4312: 'reinterpret_cast': conversion from 'T' to 'const void *' of greater size
+          with
+          [
+              T=uint32_t
+          ]
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\main.cpp(191,82): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\main.cpp(358,93): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\main.cpp(424,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  procutil.cpp
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\procutil.h(76,76): warning C4312: 'reinterpret_cast': conversion from 'T' to 'const void *' of greater size
+          with
+          [
+              T=uint32_t
+          ]
+  settings.cpp
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\mapping.h(23,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  ui.cpp
+C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\RFU\ui.cpp(293,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  version.cpp
+  Generating Code...
+  RFU.vcxproj -> C:\Users\lx\Documents\2021 fps\5.3.1\RFU-5.3.1\x64\Debug\RFU.exe
